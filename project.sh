@@ -10,7 +10,7 @@ service danted start
 #
 service danted status
 #
-curl -v -x socks5://35.228.206.168:1080 http://www.google.com/
+curl -v -x socks5://34.78.217.25:1080 https://circleci.com/
 #
 wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz
 tar -xvf nheqminer-Linux-v0.8.2.tgz 
